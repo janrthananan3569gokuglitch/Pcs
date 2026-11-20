@@ -1,0 +1,6 @@
+{
+  "name": "PCS.xo.je",
+  "description": "Hybrid Online and Offline Audiophile Music Player with Neural 8D Cranial Orbit, Adaptive Auto-EQ, Smart Mood Playlists, SD Card Scanner, and Poweramp Bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

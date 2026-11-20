@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PCS.xo.je</string>
+    <string name="notification_channel_name">Audio Playback</string>
+    <string name="notification_channel_desc">Persistent media controls for PCS.xo.je background audio playback</string>
+    <string name="notification_default_title">PCS.xo.je Audio Engine</string>
+    <string name="notification_default_artist">Ready to play</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_next">Next</string>
+    <string name="action_stop">Stop</string>
+    <string name="permission_banner_title">Offline SD Card Access Needed</string>
+    <string name="permission_banner_subtitle">Grant audio storage access to scan /storage/3263-3638/phonks offline.</string>
+    <string name="permission_grant_button">Grant Access</string>
+    <string name="permission_all_files_button">SD Card Access</string>
+    <string name="permission_dismiss_cd">Dismiss storage permission prompt</string>
+    <string name="toast_poweramp_missing">Poweramp is not installed on this device.</string>
+    <string name="toast_offline_mode">Switched to Offline Local mode</string>
+    <string name="toast_online_mode">Switched to Online Cloud mode</string>
+    <string name="toast_no_internet">No internet connection available</string>
+</resources>

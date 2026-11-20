@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing rounded-square emblem centered inside 66dp safe zone (21..87) -->
+    <path android:pathData="M34,24 L74,24 Q84,24 84,34 L84,74 Q84,84 74,84 L34,84 Q24,84 24,74 L24,34 Q24,24 34,24 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="24"
+                android:startY="24"
+                android:endX="84"
+                android:endY="84"
+                android:type="linear">
+                <item android:color="#FF00FFC8" android:offset="0.0" />
+                <item android:color="#FF38BDF8" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Bold PCS 'X' audiophile mark carved in deep obsidian -->
+    <path
+        android:fillColor="#FF031014"
+        android:pathData="M37.5,35 L46.5,35 L54,46.8 L61.5,35 L70.5,35 L58.8,53.4 L71.2,73 L62.1,73 L54,59.8 L45.9,73 L36.8,73 L49.2,53.4 Z" />
+    <!-- Subtle inner acoustic pulse arcs -->
+    <path
+        android:pathData="M30,49 L30,59"
+        android:strokeColor="#FF031014"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M78,49 L78,59"
+        android:strokeColor="#FF031014"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round" />
+</vector>
